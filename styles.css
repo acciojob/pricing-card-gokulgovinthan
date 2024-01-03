@@ -1,1 +1,26 @@
 /*  your css code here. If applicable */
+*{
+	margin:0px;
+	padding: 0px;
+}
+.card{
+	display:flex;
+	flex-direction:column;
+	margin:100px;
+	padding:30px;
+	background-color:rgb(241,241,241);
+	height:1000px;
+	width:250px;
+	
+}
+
+img{
+	width:100px;
+	hight:100px;
+	
+}
+button{
+	padding:1px:
+	margin:20px;
+
+}
